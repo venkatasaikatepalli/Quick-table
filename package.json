@@ -1,0 +1,21 @@
+{
+  "name": "quick-table",
+  "version": "1.0.0",
+  "description": "quick table to render your datalist",
+  "main": "src/QuickTable.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/venkatasaikatepalli/Quick-table.git"
+  },
+  "keywords": [
+    "vue",
+    "table",
+    "venkatasaikatepalli",
+    "quick-table"
+  ],
+  "author": "Venkata Sai Katepalli <venkatasaikatepalli@gmail.com>",
+  "license": "ISC"
+}
